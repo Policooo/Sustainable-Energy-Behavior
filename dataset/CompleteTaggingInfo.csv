@@ -1,4 +1,4 @@
-ApplianceID, ApplianceName, On_Time, OFF_Time
+ID,Name,OnTime,OffTime
 1,"BR1 Closet Light",1350943920,1350943980
 1,"BR1 Closet Light",1350944040,1350944100
 1,"BR1 Closet Light",1350944160,1350944220
